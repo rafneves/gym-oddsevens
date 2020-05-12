@@ -1,0 +1,4 @@
+from gym_oddsevens.envs.OddsEvensBiased import OddsEvensBiasedEnv
+from gym_oddsevens.envs.OddsEvensAdversarialHard import OddsEvensAdversarialHardEnv
+from gym_oddsevens.envs.OddsEvensAdversarialSoft import OddsEvensAdversarialSoftEnv
+
